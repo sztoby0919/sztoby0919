@@ -1,6 +1,6 @@
 ### Hi there, I'm Ziyue 👋
 
-- 🎓 Second-year University Student | CS Major
+- 🎓 Second-year University Student | Software engineering Major
 - 💻 Currently focusing on **C++ Algorithms** & **Game Dev (Godot)**
 - 🌱 Learning **Web Development** (HTML/CSS/JS) and so on
 - 🛠️ Tech Stack: `C++` `Linux` `Docker` `Godot``java`
